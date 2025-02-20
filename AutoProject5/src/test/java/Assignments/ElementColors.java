@@ -9,13 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ElementColors {
-	//Hello I am Netra
-	
-	//Well I am Assignment
-
-	//No I am  WebDriver
-
-//im smoke branch	
+// Hello its 
 
 	public static void main(String[] args) {
 		
